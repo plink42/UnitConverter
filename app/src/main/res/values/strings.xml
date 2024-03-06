@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsius</string>
+    <string name="button">Convert</string>
+    <string name="equal_sign">=</string>
+</resources>
